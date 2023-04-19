@@ -1,8 +1,6 @@
 ### Hi Netizens , Welcome to my profile  👋
 
-
-- 🔭 Currently transitioning from being a Structural Builder / Designer to Web Builder / Designer.
-- 🌱 Aspiring WEB3 Developer 
+- 🔭 Currently delving into the realm of Web3, seeking knowledge and enlightenment in this mystic field 
 - 👯 Community member at various web3 communities such as Unstoppable Domains and Riff Rats.
 - 💬 Discord - 0xAdam#6967
 - 📫 Email - adamjoshua.2k@outlook.com
